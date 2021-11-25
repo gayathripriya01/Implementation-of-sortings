@@ -23,7 +23,7 @@ if(position != i)
 {
 swap=a[i];
 a[i]=a[position];
-a[position=swap;
+a[position]=swap;
 }
 }
 printf("Sorted Array:n");
